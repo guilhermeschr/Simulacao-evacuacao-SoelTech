@@ -1,1 +1,0 @@
-# Simula-o-evacua-o-SoelTech

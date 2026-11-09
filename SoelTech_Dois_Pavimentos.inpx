@@ -62,6 +62,296 @@
 				</points>
 			</geometry>
 		</area>
+		<area alwUseAsDest="true" alwUseAsOrig="true" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="2" name="P2 - Piso principal 30 x 18 m" no="2" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="0" y="0"/>
+					<point x="30" y="0"/>
+					<point x="30" y="18"/>
+					<point x="0" y="18"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="true" alwUseAsOrig="true" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="2" name="P2 - Exterior apos porta de emergencia - destino final" no="3" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="19.1" y="17.98"/>
+					<point x="26.2" y="17.98"/>
+					<point x="26.2" y="20.4"/>
+					<point x="19.1" y="20.4"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="true" alwUseAsOrig="true" cellSize="0.15" desSpeedFact="1" displayType="21" isQueue="false" level="1" name="P1 - Exterior pela abertura existente - destino" no="6" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="2.02" y="-1.5"/>
+					<point x="3.98" y="-1.5"/>
+					<point x="3.98" y="0.02"/>
+					<point x="2.02" y="0.02"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="true" alwUseAsOrig="true" cellSize="0.15" desSpeedFact="1" displayType="102" isQueue="false" level="2" name="P2 - Corredor continuo - largura livre 1.40 m" no="7" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.05" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="5.944" y="4.7913314839999996"/>
+					<point x="24.745" y="4.7913314839999996"/>
+					<point x="24.745" y="6.191331484"/>
+					<point x="5.944" y="6.191331484"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P01 - Saida de emergencia" no="8" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="19.632346939000001" y="17.91"/>
+					<point x="20.495204082000001" y="17.91"/>
+					<point x="20.495204082000001" y="18.09"/>
+					<point x="19.632346939000001" y="18.09"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P02 - WC box 1" no="9" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="7.1833673469999999" y="16.686699029"/>
+					<point x="7.8676530610000004" y="16.686699029"/>
+					<point x="7.8676530610000004" y="16.866699028999999"/>
+					<point x="7.1833673469999999" y="16.866699028999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P03 - WC box 2" no="10" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="7.8976530609999998" y="16.686699029"/>
+					<point x="8.377857143" y="16.686699029"/>
+					<point x="8.377857143" y="16.866699028999999"/>
+					<point x="7.8976530609999998" y="16.866699028999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P04 - WC box 3" no="11" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="9.4282653060000001" y="16.686699029"/>
+					<point x="10.11255102" y="16.686699029"/>
+					<point x="10.11255102" y="16.866699028999999"/>
+					<point x="9.4282653060000001" y="16.866699028999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P05 - WC box 4" no="12" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="10.14255102" y="16.686699029"/>
+					<point x="10.648265306000001" y="16.686699029"/>
+					<point x="10.648265306000001" y="16.866699028999999"/>
+					<point x="10.14255102" y="16.866699028999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P06 - Entrada sanitario esquerdo" no="13" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="7.9202040819999997" y="14.639646324999999"/>
+					<point x="7.9202040819999997" y="13.521241331000001"/>
+					<point x="8.1002040819999994" y="13.521241331000001"/>
+					<point x="8.1002040819999994" y="14.639646324999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P07 - Entrada sanitario direito" no="14" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="9.1191836730000002" y="14.639646324999999"/>
+					<point x="9.1191836730000002" y="13.521241331000001"/>
+					<point x="9.2991836729999999" y="13.521241331000001"/>
+					<point x="9.2991836729999999" y="14.639646324999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P08 - Hall dos sanitarios" no="15" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="9.1191836730000002" y="13.416345354000001"/>
+					<point x="9.1191836730000002" y="12.572558945999999"/>
+					<point x="9.2991836729999999" y="12.572558945999999"/>
+					<point x="9.2991836729999999" y="13.416345354000001"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P09 - Sala oeste - porta superior" no="16" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="4.4792857140000004" y="11.943287100999999"/>
+					<point x="5.7503061219999996" y="11.943287100999999"/>
+					<point x="5.7503061219999996" y="12.123287101000001"/>
+					<point x="4.4792857140000004" y="12.123287101000001"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P10 - Divisao central superior" no="17" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="12.157857142999999" y="13.990443828"/>
+					<point x="13.04622449" y="13.990443828"/>
+					<point x="13.04622449" y="14.170443828"/>
+					<point x="12.157857142999999" y="14.170443828"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P11 - Sala nordeste - acesso pelo corredor vertical" no="18" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="21.16" y="15.438536754999999"/>
+					<point x="21.16" y="14.494889043000001"/>
+					<point x="21.34" y="14.494889043000001"/>
+					<point x="21.34" y="15.438536754999999"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P12 - Entre salas nordeste e leste" no="19" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="22.183367347000001" y="14.389889043"/>
+					<point x="23.505408162999998" y="14.389889043"/>
+					<point x="23.505408162999998" y="14.569889043"/>
+					<point x="22.183367347000001" y="14.569889043"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P13 - Sala auxiliar nordeste de 2.2 m" no="20" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="27.690612245000001" y="15.887912621"/>
+					<point x="27.690612245000001" y="14.494889043000001"/>
+					<point x="27.870612245" y="14.494889043000001"/>
+					<point x="27.870612245" y="15.887912621"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P14 - Sala auxiliar leste" no="21" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="26.874285713999999" y="8.9225866850000006"/>
+					<point x="26.874285713999999" y="8.0788002769999991"/>
+					<point x="27.054285713999999" y="8.0788002769999991"/>
+					<point x="27.054285713999999" y="8.9225866850000006"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P15 - Sala pequena superior" no="22" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="11.108979592000001" y="10.170852982"/>
+					<point x="11.108979592000001" y="9.2521705959999991"/>
+					<point x="11.288979592" y="9.2521705959999991"/>
+					<point x="11.288979592" y="10.170852982"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P16 - Sala pequena inferior" no="23" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="11.108979592000001" y="9.2221705959999998"/>
+					<point x="11.108979592000001" y="8.2285922330000005"/>
+					<point x="11.288979592" y="8.2285922330000005"/>
+					<point x="11.288979592" y="9.2221705959999998"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P17 - Sala oeste - acesso inferior" no="24" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="4.374285714" y="7.1999791960000001"/>
+					<point x="4.374285714" y="6.2563314840000004"/>
+					<point x="4.5542857139999997" y="6.2563314840000004"/>
+					<point x="4.5542857139999997" y="7.1999791960000001"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P18 - Sala sudoeste - acesso superior" no="25" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="5.015" y="6.151331484"/>
+					<point x="5.9288775510000002" y="6.151331484"/>
+					<point x="5.9288775510000002" y="6.3313314839999997"/>
+					<point x="5.015" y="6.3313314839999997"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P19 - Sala central - acesso pelo corredor" no="26" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="11.213979591999999" y="6.151331484"/>
+					<point x="12.178877550999999" y="6.151331484"/>
+					<point x="12.178877550999999" y="6.3313314839999997"/>
+					<point x="11.213979591999999" y="6.3313314839999997"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P20 - Corredor vertical - acesso pelo corredor inferior" no="27" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="20.295612245000001" y="6.151331484"/>
+					<point x="21.235" y="6.151331484"/>
+					<point x="21.235" y="6.3313314839999997"/>
+					<point x="20.295612245000001" y="6.3313314839999997"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P21 - Sala leste - acesso pelo corredor" no="28" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="21.265" y="6.151331484"/>
+					<point x="22.306428571000001" y="6.151331484"/>
+					<point x="22.306428571000001" y="6.3313314839999997"/>
+					<point x="21.265" y="6.3313314839999997"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P22 - Sala sudeste - porta no fim direito do corredor" no="29" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="24.834897958999999" y="4.8063314840000002"/>
+					<point x="24.834897958999999" y="6.1763314840000003"/>
+					<point x="24.654897958999999" y="6.1763314840000003"/>
+					<point x="24.654897958999999" y="4.8063314840000002"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P23 - Sala sul 1 - entrada a esquerda" no="30" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="5.9588775509999996" y="4.651331484"/>
+					<point x="6.92377551" y="4.651331484"/>
+					<point x="6.92377551" y="4.8313314839999997"/>
+					<point x="5.9588775509999996" y="4.8313314839999997"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P24 - Sala sul 2 - entrada a esquerda" no="31" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="10.015" y="4.651331484"/>
+					<point x="10.928877550999999" y="4.651331484"/>
+					<point x="10.928877550999999" y="4.8313314839999997"/>
+					<point x="10.015" y="4.8313314839999997"/>
+				</points>
+			</geometry>
+		</area>
+		<area alwUseAsDest="false" alwUseAsOrig="false" cellSize="0.15" desSpeedFact="1" displayType="103" isQueue="false" level="2" name="P25 - Sala sul 3 - entrada a esquerda" no="32" obstDist="0.5" pedRecAct="true" ptBoardPassChoice="PTLINEONLY" ptUsage="PTNONE" ptWaitBehav="WAITATFIXEDLOCATION" queueApprDirRad="2" queueApprMeth="STATICPOTENTIAL" queueEvalAct="false" queueSpc="1.5" queueSpcChoice="QUEUESPACINGCHOICEDEFAULT" showClsfValues="true" showIndivPeds="true" thickness="0.01" waitAreaMinSpc="0" waitPosApprMeth="DIRECTLINE" waitTmIsRelToSimStart="false" zOffset="0">
+			<geometry>
+				<points>
+					<point x="19.428265306" y="4.651331484"/>
+					<point x="20.316632652999999" y="4.651331484"/>
+					<point x="20.316632652999999" y="4.8313314839999997"/>
+					<point x="19.428265306" y="4.8313314839999997"/>
+				</points>
+			</geometry>
+		</area>
 	</areas>
 	<colorDistributions>
 		<colorDistribution name="Default" no="1">
@@ -678,6 +968,9 @@
 		<displayType allSidesSame="true" anisoFilt="true" borderColor="fff0f0f0" borderLineStyle="SOLIDLINE" curved="false" drawOrder3D="MID" fillColor="fff0f0f0" fillStyle="SOLIDFILL" invisible="false" name="Elevator ceiling" no="45" noMipmap="false" rail="false" railFlangeHgt="0.013" railFlangeWid="0.15" railGauge="1.435" railHeadHgt="0.043" railHeadWid="0.073" railHgt="0.172" railType="STANDARD" railWebWid="0.016" texHorizLen="1" textureFilename="#3dmodels#Textures\Material\Structure 01 White Dark.png" tiesHgt="0.02" tiesLen="2.6" tiesSpac="0.6" tiesTexFilename="" tiesTexHorizLen="1" tiesType="STANDARD" tiesWid="0.26"/>
 		<displayType allSidesSame="false" anisoFilt="true" borderColor="ff800000" borderLineStyle="SOLIDLINE" curved="false" drawOrder3D="MID" fillColor="ff800000" fillStyle="SOLIDFILL" invisible="false" name="Obstacle" no="51" noMipmap="false" rail="false" railFlangeHgt="0.013" railFlangeWid="0.15" railGauge="1.435" railHeadHgt="0.043" railHeadWid="0.073" railHgt="0.172" railType="STANDARD" railWebWid="0.016" texHorizLen="1" textureFilename="" tiesHgt="0.02" tiesLen="2.6" tiesSpac="0.6" tiesTexFilename="" tiesTexHorizLen="1" tiesType="STANDARD" tiesWid="0.26"/>
 		<displayType allSidesSame="false" anisoFilt="true" borderColor="fffff1b2" borderLineStyle="SOLIDLINE" curved="false" drawOrder3D="MID" fillColor="fffff1b2" fillStyle="NOFILL" invisible="false" name="Section" no="61" noMipmap="false" rail="false" railFlangeHgt="0.013" railFlangeWid="0.15" railGauge="1.435" railHeadHgt="0.043" railHeadWid="0.073" railHgt="0.172" railType="STANDARD" railWebWid="0.016" texHorizLen="1" textureFilename="" tiesHgt="0.02" tiesLen="2.6" tiesSpac="0.6" tiesTexFilename="" tiesTexHorizLen="1" tiesType="STANDARD" tiesWid="0.26"/>
+		<displayType allSidesSame="false" anisoFilt="true" borderColor="ff245980" borderLineStyle="SOLIDLINE" curved="false" drawOrder3D="MID" fillColor="ff7baacb" fillStyle="SOLIDFILL" invisible="false" name="Escada interna aberta" no="101" noMipmap="false" rail="false" railFlangeHgt="0.013" railFlangeWid="0.15" railGauge="1.435" railHeadHgt="0.043" railHeadWid="0.073" railHgt="0.172" railType="STANDARD" railWebWid="0.016" texHorizLen="1" textureFilename="" tiesHgt="0.02" tiesLen="2.6" tiesSpac="0.6" tiesTexFilename="" tiesTexHorizLen="1" tiesType="STANDARD" tiesWid="0.26"/>
+		<displayType allSidesSame="false" anisoFilt="true" borderColor="ffad9563" borderLineStyle="SOLIDLINE" curved="false" drawOrder3D="MID" fillColor="ffe4d4aa" fillStyle="SOLIDFILL" invisible="false" name="Corredor livre 1.40m" no="102" noMipmap="false" rail="false" railFlangeHgt="0.013" railFlangeWid="0.15" railGauge="1.435" railHeadHgt="0.043" railHeadWid="0.073" railHgt="0.172" railType="STANDARD" railWebWid="0.016" texHorizLen="1" textureFilename="" tiesHgt="0.02" tiesLen="2.6" tiesSpac="0.6" tiesTexFilename="" tiesTexHorizLen="1" tiesType="STANDARD" tiesWid="0.26"/>
+		<displayType allSidesSame="false" anisoFilt="true" borderColor="ff23805b" borderLineStyle="SOLIDLINE" curved="false" drawOrder3D="MID" fillColor="ff57bc93" fillStyle="SOLIDFILL" invisible="false" name="Portas - soleiras caminhaveis" no="103" noMipmap="false" rail="false" railFlangeHgt="0.013" railFlangeWid="0.15" railGauge="1.435" railHeadHgt="0.043" railHeadWid="0.073" railHgt="0.172" railType="STANDARD" railWebWid="0.016" texHorizLen="1" textureFilename="" tiesHgt="0.02" tiesLen="2.6" tiesSpac="0.6" tiesTexFilename="" tiesTexHorizLen="1" tiesType="STANDARD" tiesWid="0.26"/>
 	</displayTypes>
 	<drivingBehaviors>
 		<drivingBehavior accDecelOwn="-1" accDecelTrail="-1" accDecelTrailFrLnChgMax="-3" accDecelTrailFrLnChgMin="-2" accDecelTrailFrLnChgRiseTm="10" acc_J="1" acc_MinGapTime="1" acc_StandSafDist="5" acc_a_cc_max="1.5" acc_a_cc_min="-2" acc_a_s="-3" acc_a_start="0.5" acc_d_s="2.5" acc_delta_res="0.5" acc_t_s_brake="10" acc_t_s_max="3" acc_t_s_min="1" acc_tau_J_minus="0.3" acc_tau_J_plus="1" acc_tau_cc="5" acc_tau_d="5" acc_tau_v="1" acc_v_res="10.8" alc_T_overtake="11" alc_T_r="1.4" alc_T_r_cancel="0.4" alc_a_d_r_acc="-3" alc_a_d_r_cancel="-3.7" alc_a_ego_d_f_acc="-4" alc_beta="0.66666666666666663" alc_delta_v_limit="30" alc_delta_v_min="5.4" alc_gamma="2" alc_lambda_LC_cancel="0.5" alc_tau_d_f_faster="0.4" alc_tau_d_f_slower="0.4" alc_tau_d_r_faster="1" alc_tau_d_r_slower="1" alc_tau_dot_ramp="0.5" alc_tau_ego_faster_direct="1" alc_v_limit_max="160" amberA="1.588581" amberB1="-0.261981" amberB2="0.269453" amberBehav="CONTINUOUSCHECK" autLnChg="false" carFollowModType="WIEDEMANN74" conflArAsInteractObj="false" consNextTurn="false" coopDecel="-3" coopLnChg="false" coopLnChgCollTm="10" coopLnChgSpeedDiff="10.8" decelRedDistOwn="100" decelRedDistTrail="100" desLatPos="MIDDLE" diamQueu="false" diffusTm="60" distractProb="0" enforcAbsBrakDist="false" freeDrivTm="11" incrsAccel="1" jerkLimit="true" latDirChgMinTm="0" latDistDrivDef="1" latDistStandDef="0.2" lnChgRule="FREELANESELECTION" lookAheadDistMax="250" lookAheadDistMin="0" lookBackDistMax="150" lookBackDistMin="0" maxDecelOwn="-4" maxDecelTrail="-3" maxNumPlatoonVeh="7" maxPlatoonApprDist="250" maxPlatoonDesSpeed="80" mesoMaxWaitTm="120" mesoReactTm="1.2" mesoStandDist="2" minCollTmGain="2" minFrontRearClear="0.5" minSpeedForLat="1" name="Urban (motorized)" no="1" numInteractObj="4" numInteractVeh="99" obsrvAdjLn="false" ovtLDef="false" ovtRDef="false" ovtRedSpeedAreas="false" platoonFollowUpGapTm="0.6" platoonMinClear="2" platoonPoss="false" rearCorr="false" rearCorrEnd="10" rearCorrMaxSpeed="3" rearCorrStart="1" recovAcc="0.4" recovDist="2000" recovSafDist="1.1" recovSlow="false" recovSpeed="0.6" redAmberBehav="GO" safDistFactLnChg="0.6" safDistFactSig="0.6" safDistFactSigEnd="100" safDistFactSigStart="100" sleepDur="0" sleepProb="0" slowLnOvt_MaxSpeed="60" slowLnOvt_MaxSpeedDiff="20" standDist="0.5" standDistIsFix="false" useImplicStoch="true" vehRoutDecLookAhead="true" w74ax="2" w74bxAdd="2" w74bxMult="3" w99cc0="1.5" w99cc1Distr="3" w99cc2="4" w99cc3="-8" w99cc4="-0.35" w99cc5="0.35" w99cc6="11.44" w99cc7="0.25" w99cc8="3.5" w99cc9="1.5" zipper="true" zipperMinSpeed="20" zipperOvtTmDistr="7"/>
@@ -790,6 +1083,7 @@
 	</laneMarkingTypes>
 	<levels>
 		<level name="Pavimento da planta" no="1" zCoord="0"/>
+		<level name="Segundo andar - planta sem mobiliario" no="2" zCoord="3"/>
 	</levels>
 	<linkBehaviorTypes>
 		<linkBehaviorType anmFlag="false" drivBehavDef="1" name="Urban (motorized)" no="1"/>
@@ -1939,6 +2233,716 @@
 				</points>
 			</geometry>
 		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Perimetro inferior" no="35" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0" y="-0.06"/>
+					<point x="30" y="-0.06"/>
+					<point x="30" y="0.06"/>
+					<point x="0" y="0.06"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Perimetro esquerdo" no="36" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0.06" y="0"/>
+					<point x="0.06" y="18"/>
+					<point x="-0.06" y="18"/>
+					<point x="-0.06" y="0"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Perimetro direito" no="37" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="30.06" y="0"/>
+					<point x="30.06" y="18"/>
+					<point x="29.94" y="18"/>
+					<point x="29.94" y="0"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Perimetro superior oeste" no="38" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0" y="17.94"/>
+					<point x="19.617347" y="17.94"/>
+					<point x="19.617347" y="18.06"/>
+					<point x="0" y="18.06"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Perimetro superior leste" no="39" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="20.510204" y="17.94"/>
+					<point x="30" y="17.94"/>
+					<point x="30" y="18.06"/>
+					<point x="20.510204" y="18.06"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Divisa com sanitarios junto a escada aberta" no="45" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.893878" y="18"/>
+					<point x="5.893878" y="13.506241"/>
+					<point x="5.993878" y="13.506241"/>
+					<point x="5.993878" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / lateral oeste" no="46" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="6.710204" y="18"/>
+					<point x="6.710204" y="16.477115"/>
+					<point x="6.810204" y="16.477115"/>
+					<point x="6.810204" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / lateral leste" no="50" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="11.14898" y="18"/>
+					<point x="11.14898" y="11.683773"/>
+					<point x="11.24898" y="11.683773"/>
+					<point x="11.24898" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / box 1" no="51" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="6.760204" y="16.726699"/>
+					<point x="7.168367" y="16.726699"/>
+					<point x="7.168367" y="16.826699"/>
+					<point x="6.760204" y="16.826699"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / box 2" no="52" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="8.392857" y="16.726699"/>
+					<point x="9.413265" y="16.726699"/>
+					<point x="9.413265" y="16.826699"/>
+					<point x="8.392857" y="16.826699"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / box 3" no="53" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="10.663265" y="16.726699"/>
+					<point x="11.19898" y="16.726699"/>
+					<point x="11.19898" y="16.826699"/>
+					<point x="10.663265" y="16.826699"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / canto oeste" no="54" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.943878" y="15.728086"/>
+					<point x="6.760204" y="15.728086"/>
+					<point x="6.760204" y="15.828086"/>
+					<point x="5.943878" y="15.828086"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / vao duplo oeste" no="56" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.943878" y="13.456241"/>
+					<point x="8.010204" y="13.456241"/>
+					<point x="8.010204" y="13.556241"/>
+					<point x="5.943878" y="13.556241"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / vao duplo leste" no="57" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="9.209184" y="13.456241"/>
+					<point x="10.688776" y="13.456241"/>
+					<point x="10.688776" y="13.556241"/>
+					<point x="9.209184" y="13.556241"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sanitarios / divisoria hall" no="58" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="10" y="13.381345"/>
+					<point x="11.19898" y="13.381345"/>
+					<point x="11.19898" y="13.481345"/>
+					<point x="10" y="13.481345"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Hall / retorno oeste" no="59" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="6.710204" y="13.506241"/>
+					<point x="6.710204" y="12.033287"/>
+					<point x="6.810204" y="12.033287"/>
+					<point x="6.810204" y="13.506241"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Hall / retorno leste" no="60" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="9.159184" y="12.557559"/>
+					<point x="9.159184" y="11.683773"/>
+					<point x="9.259184" y="11.683773"/>
+					<point x="9.259184" y="12.557559"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste / chanfro" no="63" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="3.306865" y="11.997552"/>
+					<point x="4.429314" y="10.899078"/>
+					<point x="4.499257" y="10.970548"/>
+					<point x="3.376808" y="12.069022"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste / parede direita" no="64" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="4.414286" y="10.934813"/>
+					<point x="4.414286" y="7.214979"/>
+					<point x="4.514286" y="7.214979"/>
+					<point x="4.514286" y="10.934813"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste / parede inferior esquerda" no="65" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0" y="6.191331"/>
+					<point x="3.571429" y="6.191331"/>
+					<point x="3.571429" y="6.291331"/>
+					<point x="0" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste / parede inferior direita" no="66" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="4.515306" y="6.191331"/>
+					<point x="5" y="6.191331"/>
+					<point x="5" y="6.291331"/>
+					<point x="4.515306" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste inferior / canto" no="69" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0" y="5.617129"/>
+					<point x="4.464286" y="5.617129"/>
+					<point x="4.464286" y="5.717129"/>
+					<point x="0" y="5.717129"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Salas pequenas / parede oeste" no="70" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="7.934694" y="11.683773"/>
+					<point x="7.934694" y="6.241331"/>
+					<point x="8.034694" y="6.241331"/>
+					<point x="8.034694" y="11.683773"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Salas pequenas / parede norte" no="71" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="7.984694" y="11.633773"/>
+					<point x="11.19898" y="11.633773"/>
+					<point x="11.19898" y="11.733773"/>
+					<point x="7.984694" y="11.733773"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Salas pequenas / parede leste superior" no="72" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="11.14898" y="11.683773"/>
+					<point x="11.14898" y="10.185853"/>
+					<point x="11.24898" y="10.185853"/>
+					<point x="11.24898" y="11.683773"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Salas pequenas / divisao esquerda" no="73" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="7.984694" y="9.187171"/>
+					<point x="11.19898" y="9.187171"/>
+					<point x="11.19898" y="9.287171"/>
+					<point x="7.984694" y="9.287171"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Salas pequenas / parede sul" no="75" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="7.984694" y="6.191331"/>
+					<point x="11.19898" y="6.191331"/>
+					<point x="11.19898" y="6.291331"/>
+					<point x="7.984694" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala central / lateral leste" no="78" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="17.016327" y="18"/>
+					<point x="17.016327" y="6.241331"/>
+					<point x="17.116327" y="6.241331"/>
+					<point x="17.116327" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala central / parede sul" no="79" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="12.193878" y="6.191331"/>
+					<point x="17.066327" y="6.191331"/>
+					<point x="17.066327" y="6.291331"/>
+					<point x="12.193878" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor vertical / parede leste superior" no="80" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="21.2" y="18"/>
+					<point x="21.2" y="15.453537"/>
+					<point x="21.3" y="15.453537"/>
+					<point x="21.3" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor vertical / parede leste inferior" no="81" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="21.2" y="14.479889"/>
+					<point x="21.2" y="6.241331"/>
+					<point x="21.3" y="6.241331"/>
+					<point x="21.3" y="14.479889"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor vertical / parede sul esquerda" no="82" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="17.066327" y="6.191331"/>
+					<point x="20.280612" y="6.191331"/>
+					<point x="20.280612" y="6.291331"/>
+					<point x="17.066327" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor vertical / parede sul direita" no="83" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="21.25" y="6.191331"/>
+					<point x="21.403061" y="6.191331"/>
+					<point x="21.403061" y="6.291331"/>
+					<point x="21.25" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala leste / parede sul" no="85" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="22.321429" y="6.191331"/>
+					<point x="30" y="6.191331"/>
+					<point x="30" y="6.291331"/>
+					<point x="22.321429" y="6.291331"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala leste / divisao auxiliar horizontal" no="86" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="26.964286" y="8.887587"/>
+					<point x="30" y="8.887587"/>
+					<point x="30" y="8.987587"/>
+					<point x="26.964286" y="8.987587"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala leste / divisao auxiliar vertical" no="87" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="26.914286" y="8.0638"/>
+					<point x="26.914286" y="6.241331"/>
+					<point x="27.014286" y="6.241331"/>
+					<point x="27.014286" y="8.0638"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="96" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0.127551" y="17.475728"/>
+					<point x="0.357143" y="17.475728"/>
+					<point x="0.357143" y="17.900139"/>
+					<point x="0.127551" y="17.900139"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="97" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.765306" y="17.450763"/>
+					<point x="6.19898" y="17.450763"/>
+					<point x="6.19898" y="17.900139"/>
+					<point x="5.765306" y="17.900139"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="98" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="11.811224" y="17.450763"/>
+					<point x="12.142857" y="17.450763"/>
+					<point x="12.142857" y="17.900139"/>
+					<point x="11.811224" y="17.900139"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="99" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="17.780612" y="17.450763"/>
+					<point x="18.086735" y="17.450763"/>
+					<point x="18.086735" y="17.900139"/>
+					<point x="17.780612" y="17.900139"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="100" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="23.826531" y="17.450763"/>
+					<point x="24.107143" y="17.450763"/>
+					<point x="24.107143" y="17.900139"/>
+					<point x="23.826531" y="17.900139"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="101" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="29.591837" y="17.450763"/>
+					<point x="29.897959" y="17.450763"/>
+					<point x="29.897959" y="17.900139"/>
+					<point x="29.591837" y="17.900139"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="102" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="29.464286" y="11.708738"/>
+					<point x="29.897959" y="11.708738"/>
+					<point x="29.897959" y="12.033287"/>
+					<point x="29.464286" y="12.033287"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="103" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="29.464286" y="5.916782"/>
+					<point x="29.897959" y="5.916782"/>
+					<point x="29.897959" y="6.216366"/>
+					<point x="29.464286" y="6.216366"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="104" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.765306" y="11.758669"/>
+					<point x="6.25" y="11.758669"/>
+					<point x="6.25" y="12.033287"/>
+					<point x="5.765306" y="12.033287"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Pilar estrutural" no="105" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="29.464286" y="0.049931"/>
+					<point x="29.897959" y="0.049931"/>
+					<point x="29.897959" y="0.549237"/>
+					<point x="29.464286" y="0.549237"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="1.1" level="2" name="P2 - Guarda-corpo da area externa" no="106" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="19.15" y="18.03"/>
+					<point x="19.15" y="20.4"/>
+					<point x="19.05" y="20.4"/>
+					<point x="19.05" y="18.03"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="1.1" level="2" name="P2 - Guarda-corpo da area externa" no="107" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="19.1" y="20.35"/>
+					<point x="26.2" y="20.35"/>
+					<point x="26.2" y="20.45"/>
+					<point x="19.1" y="20.45"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="1.1" level="2" name="P2 - Guarda-corpo da area externa" no="108" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="26.15" y="20.4"/>
+					<point x="26.15" y="18.03"/>
+					<point x="26.25" y="18.03"/>
+					<point x="26.25" y="20.4"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="1.1" level="2" name="P2 - Guarda-corpo da area externa" no="109" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="19.1" y="17.98"/>
+					<point x="19.617347" y="17.98"/>
+					<point x="19.617347" y="18.08"/>
+					<point x="19.1" y="18.08"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="1.1" level="2" name="P2 - Guarda-corpo da area externa" no="110" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="20.510204" y="17.98"/>
+					<point x="26.2" y="17.98"/>
+					<point x="26.2" y="18.08"/>
+					<point x="20.510204" y="18.08"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - WC / divisoria box esquerda" no="111" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="7.8326530610000002" y="18"/>
+					<point x="7.8326530610000002" y="16.776699029"/>
+					<point x="7.9326530609999999" y="16.776699029"/>
+					<point x="7.9326530609999999" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - WC / divisoria central" no="112" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="8.955102041" y="18"/>
+					<point x="8.955102041" y="14.654646325"/>
+					<point x="9.0551020409999996" y="14.654646325"/>
+					<point x="9.0551020409999996" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - WC / divisoria box direita" no="113" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="10.07755102" y="18"/>
+					<point x="10.07755102" y="16.776699029"/>
+					<point x="10.17755102" y="16.776699029"/>
+					<point x="10.17755102" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - WC / parede sobre as duas entradas" no="114" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="8.0102040819999996" y="14.604646324999999"/>
+					<point x="9.2091836730000001" y="14.604646324999999"/>
+					<point x="9.2091836730000001" y="14.704646325000001"/>
+					<point x="8.0102040819999996" y="14.704646325000001"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste / norte antes da porta" no="115" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="0" y="11.983287101"/>
+					<point x="4.4642857139999998" y="11.983287101"/>
+					<point x="4.4642857139999998" y="12.083287101"/>
+					<point x="0" y="12.083287101"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala oeste / norte depois da porta" no="116" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.7653061220000001" y="11.983287101"/>
+					<point x="6.7602040819999996" y="11.983287101"/>
+					<point x="6.7602040819999996" y="12.083287101"/>
+					<point x="5.7653061220000001" y="12.083287101"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor / divisoria lateral esquerda" no="117" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="5.8938775510000001" y="6.2413314839999998"/>
+					<point x="5.8938775510000001" y="0"/>
+					<point x="5.9938775509999997" y="0"/>
+					<point x="5.9938775509999997" y="6.2413314839999998"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor / parede sul sala sul 1" no="118" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="6.93877551" y="4.691331484"/>
+					<point x="10" y="4.691331484"/>
+					<point x="10" y="4.7913314839999996"/>
+					<point x="6.93877551" y="4.7913314839999996"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor / parede sul sala sul 2" no="119" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="10.943877551" y="4.691331484"/>
+					<point x="19.413265306" y="4.691331484"/>
+					<point x="19.413265306" y="4.7913314839999996"/>
+					<point x="10.943877551" y="4.7913314839999996"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Corredor / parede sul sala sul 3" no="120" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="20.331632653" y="4.691331484"/>
+					<point x="24.744897958999999" y="4.691331484"/>
+					<point x="24.744897958999999" y="4.7913314839999996"/>
+					<point x="20.331632653" y="4.7913314839999996"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - divisoria sul 1-2" no="121" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="10.05" y="0"/>
+					<point x="10.05" y="4.7413314839999998"/>
+					<point x="9.95" y="4.7413314839999998"/>
+					<point x="9.95" y="0"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - divisoria sul 2-3" no="122" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="19.463265306" y="0"/>
+					<point x="19.463265306" y="4.7413314839999998"/>
+					<point x="19.363265305999999" y="4.7413314839999998"/>
+					<point x="19.363265305999999" y="0"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - limite sala sudeste" no="123" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="24.794897959" y="0"/>
+					<point x="24.794897959" y="4.7413314839999998"/>
+					<point x="24.694897958999999" y="4.7413314839999998"/>
+					<point x="24.694897958999999" y="0"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala sudeste / parede norte continua" no="124" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="24.744897958999999" y="6.191331484"/>
+					<point x="30" y="6.191331484"/>
+					<point x="30" y="6.2913314839999996"/>
+					<point x="24.744897958999999" y="6.2913314839999996"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala pequena inferior / lateral abaixo da porta" no="125" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="11.148979592" y="8.213592233"/>
+					<point x="11.148979592" y="6.2413314839999998"/>
+					<point x="11.248979592" y="6.2413314839999998"/>
+					<point x="11.248979592" y="8.213592233"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala central / divisao antes da porta" no="126" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="11.198979592000001" y="14.030443827999999"/>
+					<point x="12.142857143000001" y="14.030443827999999"/>
+					<point x="12.142857143000001" y="14.130443828000001"/>
+					<point x="11.198979592000001" y="14.130443828000001"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala central / divisao depois da porta" no="127" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="13.06122449" y="14.030443827999999"/>
+					<point x="17.066326531000001" y="14.030443827999999"/>
+					<point x="17.066326531000001" y="14.130443828000001"/>
+					<point x="13.06122449" y="14.130443828000001"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala nordeste / sul antes da porta" no="128" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="21.25" y="14.429889042999999"/>
+					<point x="22.168367347" y="14.429889042999999"/>
+					<point x="22.168367347" y="14.529889043000001"/>
+					<point x="21.25" y="14.529889043000001"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala nordeste / sul depois da porta" no="129" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="23.520408162999999" y="14.429889042999999"/>
+					<point x="30" y="14.429889042999999"/>
+					<point x="30" y="14.529889043000001"/>
+					<point x="23.520408162999999" y="14.529889043000001"/>
+				</points>
+			</geometry>
+		</obstacle>
+		<obstacle displayType="51" height="2.7" level="2" name="P2 - Sala nordeste auxiliar / lateral antes da porta" no="130" zOffsetB="0">
+			<geometry>
+				<points>
+					<point x="27.730612245" y="18"/>
+					<point x="27.730612245" y="15.902912621"/>
+					<point x="27.830612245000001" y="15.902912621"/>
+					<point x="27.830612245000001" y="18"/>
+				</points>
+			</geometry>
+		</obstacle>
 	</obstacles>
 	<occupancyDistributions>
 		<occupancyDistribution mean="1" name="Single Occupancy" no="1" stdDev="0" type="NORMAL"/>
@@ -2032,7 +3036,22 @@
 			</distrDataPts>
 		</powerDistribution>
 	</powerDistributions>
-	<simulation comment="Geometria preliminar; sem cenário de evacuação validado" numCores="1" numRuns="1" randSeed="42" randSeedIncr="1" retroSync="false" simMode="MICRO" simPeriod="600" simRes="10" simSpeed="10" startTm="0" useAllCores="true" useMaxSimSpeed="true" volumeIncrDynAssign="0"/>
+	<ramps>
+		<ramp balustrDisplType="34" balustrHgt="0.72" balustrWid="0.08" calcInt="1" cellSize="0.15" desSpeedFact="1" displayType="101" endLvl="1" endZOffset="0" entryLandLen="0.85" entryRunLen="0" exitLandLen="0.85" exitRunLen="0" footDefBy="HEADROOM" footHeadr="2" footLen="2.129126366666668" footVisible="true" form="STRAIGHTRUN" g="1.5" going="0.16504855555555567" h="0.7" handrDisplType="33" handrHgt="0.04" handrWid="0.08" impact="1" landingDisplType="101" movDir="FORWARD" name="Escada interna aberta para o terreo - H provisoria 3m" no="1" obstDist="0.02" opSpeed="1.8" openDefBy="HEADROOM" openHeadr="2" openLen="2.0300972333333345" pedRecAct="true" rise="0.16666666666666666" showBalustr="true" showClsfValues="true" showIndivPeds="true" socketDisplType="35" socketHgt="0.24" standLoc="RANDOM" startLvl="2" startZOffset="0" steps="18" thickness="0.15" treadsDefBy="STEPS" type="STAIRWAY" usableWid="1.0424489795918364" useDynPot="false" walkAll="true" walkPerc="0">
+			<geometry>
+				<points>
+					<point x="5.637755" y="13.506241"/>
+					<point x="5.637755" y="16.477115"/>
+					<point x="4.515306" y="16.477115"/>
+					<point x="4.515306" y="13.506241"/>
+				</points>
+			</geometry>
+			<segments>
+				<rampSegment length="2.970874000000002" width="1.1224490000000005"/>
+			</segments>
+		</ramp>
+	</ramps>
+	<simulation comment="V02 portas P01-P25 revisadas pela imagem anotada; corredor 1.40m livre; escada aberta ao terreo; H=3m provisoria; sem demanda real" numCores="1" numRuns="1" randSeed="42" randSeedIncr="1" retroSync="false" simMode="MICRO" simPeriod="600" simRes="10" simSpeed="10" startTm="0" useAllCores="true" useMaxSimSpeed="true" volumeIncrDynAssign="0"/>
 	<speedDistributions>
 		<speedDistribution name="5 km/h" no="5">
 			<speedDistrDatPts>
